@@ -1,9 +1,9 @@
 {
-	"directory": "",
+	"directory": "sansbg",
 	"defaultZoom": 0.7,
 	"isPixelStage": false,
 
-	"boyfriend": [1150, 700],
+	"boyfriend": [1250, 300],
 	"girlfriend": [400, 480],
-	"opponent": [120, 540]
+	"opponent": [110, 150]
 }
