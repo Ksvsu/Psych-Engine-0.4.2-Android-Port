@@ -1,4 +1,5 @@
 {
+	"mechanic": [],
 	"animations": [
 		{
 			"loop": false,
@@ -14,8 +15,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				-6
+				-5,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +26,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				-19
+				14,
+				-35
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +37,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				10,
+				-6
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,7 +48,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
+				11,
 				-7
 			],
 			"anim": "singRIGHT",
@@ -58,8 +59,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				19
+				-5,
+				0
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -69,8 +70,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-19
+				-17,
+				-4
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -80,8 +81,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				11,
+				-4
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,8 +92,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				22
+				-10,
+				-8
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,12 +103,23 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
+				-4,
+				-13
 			],
 			"anim": "hey",
 			"fps": 24,
 			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
 			"indices": []
 		},
 		{
@@ -135,8 +147,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				38,
-				6
+				37,
+				5
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -146,7 +158,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				38,
+				37,
 				69
 			],
 			"anim": "deathConfirm",
@@ -155,51 +167,51 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				25,
-				202
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF giro"
-		},
-		{
-			"loop": true,
 			"offsets": [
-				58,
-				122
+				-10,
+				-16
 			],
-			"anim": "boneTrap",
+			"anim": "dodge",
 			"fps": 24,
-			"name": "bones trap",
+			"name": "boyfriend dodge",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				57,
-				184
+				294,
+				267
 			],
-			"anim": "boneAttack",
+			"anim": "attack",
 			"fps": 24,
-			"name": "bone atack",
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfCar",
+	"image": "characters/BF_B",
 	"position": [
 		0,
-		430
+		340
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-black",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		225,
+		225,
+		225
 	],
 	"camera_position": [
 		0,

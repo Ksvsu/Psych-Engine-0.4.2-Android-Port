@@ -48,7 +48,7 @@
 			"loop": true,
 			"offsets": [
 				-5,
-				-4
+				-3
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -57,7 +57,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/sans_assets",
 	"position": [
 		0,
 		430
@@ -67,7 +67,7 @@
 	"healthbar_colors": [
 		175,
 		179,
-		210
+		230
 	],
 	"camera_position": [
 		210,
