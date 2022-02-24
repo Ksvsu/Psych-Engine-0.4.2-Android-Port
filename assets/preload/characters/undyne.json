@@ -3,45 +3,45 @@
 		{
 			"loop": false,
 			"offsets": [
-				70,
-				6
+				18,
+				-21
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "papyrus singLEFT",
+			"name": "undyne left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				81,
-				-3
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "papyrus singDOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-8,
-				61
+				-67,
+				-27
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "papyrus singUP",
+			"name": "undyne up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-68,
-				14
+				32,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "undyne down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-52
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "papyrus singRIGHT",
+			"name": "undyne right",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "papyrus idle",
+			"name": "undyne idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/papyrus",
+	"image": "characters/undyne",
 	"position": [
-		-205,
-		-40
+		-390,
+		-280
 	],
-	"healthicon": "papyrus",
+	"healthicon": "undyne",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -70,8 +70,8 @@
 		255
 	],
 	"camera_position": [
-		-135,
-		250
+		-90,
+		300
 	],
 	"sing_duration": 6.1,
 	"scale": 1

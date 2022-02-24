@@ -3,45 +3,45 @@
 		{
 			"loop": false,
 			"offsets": [
-				70,
-				6
+				59,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "papyrus singLEFT",
+			"name": "chara left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				81,
-				-3
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "papyrus singDOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-8,
-				61
+				-17,
+				24
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "papyrus singUP",
+			"name": "chara up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-68,
-				14
+				19,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "chara down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "papyrus singRIGHT",
+			"name": "chara right",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "papyrus idle",
+			"name": "chara idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/papyrus",
+	"image": "characters/chara",
 	"position": [
-		-205,
-		-40
+		-40,
+		130
 	],
-	"healthicon": "papyrus",
+	"healthicon": "chara",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -70,8 +70,8 @@
 		255
 	],
 	"camera_position": [
-		-135,
-		250
+		-170,
+		210
 	],
 	"sing_duration": 6.1,
 	"scale": 1
